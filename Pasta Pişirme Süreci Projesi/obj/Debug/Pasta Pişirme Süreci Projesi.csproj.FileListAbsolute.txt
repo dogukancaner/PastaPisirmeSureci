@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\bin\Debug\Pasta Pişirme Süreci Projesi.exe.config
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\bin\Debug\Pasta Pişirme Süreci Projesi.exe
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\bin\Debug\Pasta Pişirme Süreci Projesi.pdb
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta_Pişirme_Süreci_Projesi.Form1.resources
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta_Pişirme_Süreci_Projesi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta Pişirme Süreci Projesi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta Pişirme Süreci Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta Pişirme Süreci Projesi.exe
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta Pişirme Süreci Projesi.pdb
+C:\Users\Administrator\Desktop\Çalışmalarım\Pasta Pişirme Süreci Projesi\Pasta Pişirme Süreci Projesi\obj\Debug\Pasta Pişirme Süreci Projesi.csprojAssemblyReference.cache
